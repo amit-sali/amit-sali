@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amit_salli" target="blank"><img src="https://img.shields.io/twitter/follow/amit_salli?logo=twitter&style=for-the-badge" alt="amit_salli" /></a> </p>
 
-- 🔭 currently working on **developer.us team project**
+- 🔭 currently learning as much as possible.
 
 - 🌱 currently learning **react**
 
